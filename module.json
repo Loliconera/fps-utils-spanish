@@ -1,6 +1,6 @@
 {
     "disableAutoUpdate": false,
-    "name": "fps-utils",
+    "name": "fps-utils-spanish",
     "author": "Risenio",
     "homepage": "https://github.com/Risenio/fps-utils/wiki",
     "supportUrl": "https://github.com/Risenio/fps-utils/issues",
@@ -11,7 +11,7 @@
     "version": "19",
     "options": {
         "cliName": "FPS",
-        "guiName": "Fps Utils",
+        "guiName": "Fps Utils Spanish",
         "settingsVersion": 19,
         "settingsFile": "config.json",
         "settingsMigrator": "./lib/setting_migration.js"
