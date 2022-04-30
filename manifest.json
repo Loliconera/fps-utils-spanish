@@ -1,7 +1,6 @@
 {
     "files": {
         "README.md": "54a4d33b4c0c69a7cc554305755ed051f400f26afa0ea210ad48e228f7580211",
-        "config.json": "101540c70a23e1bb9ade94afa9f86be4dd4bb2ed4a8107f53e55416e4e2448e2",
         "lib/data/abnormalities.json": "54727de2123584eb0ff38ffca5e86601e3faf05e8dc3379c9a0fd6e5ede1ca0c",
         "lib/data/miscData.json": "7d71d166aaa8bd39f40d9ddd8cbbccea6af7d8facae42b7d77046f2ea8cd143b",
         "lib/data/npcData.json": "bcd1876e4266f71299a298221b2594e45bf87f143f276a62c60dd8a35b75acd7",
