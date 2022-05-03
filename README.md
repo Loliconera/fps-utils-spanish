@@ -10,7 +10,7 @@
   * Debería funcionar en cualquier proxy. ([Tera-Proxy](https://github.com/tera-proxy/tera-proxy) & [Tera-Toolbox](https://github.com/tera-toolbox/tera-toolbox), *siempre y cuando este actualizado*)
   * Sin dependencias.
 
-## La lista de comandos se puede encontrar en [este Wiki](https://github.com/Risenio/fps-utils/wiki/Commands).
+## La lista de comandos se puede encontrar en [este Wiki](https://github.com/Loliconera/fps-utils-spanish/wiki/Comandos).
 
 ## Sugerencias/Problemas/Informes son bienvenidos.
   * Si tiene sugerencias, necesita ayuda o desea comentar sobre mi codificación, envíeme un mensaje privado a discord `@Risenio#6997` o deje un informe de problemas.
