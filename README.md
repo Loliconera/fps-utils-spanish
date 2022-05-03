@@ -2,9 +2,11 @@
   Escrito para tera-proxy, un script gratuito repleto de funciones dedicadas a mejorar tus fps, en mundo abierto, en mazmorras y en campos de batalla.
 
 ## Cómo utilizar.
-  * Coloque la carpeta del script **fps-utils** en la carpeta `mods`.
+  * Coloque el módulo **fps-utils-spanish** en la carpeta `mods`.
   * Inicie sesión en el juego usando el proxy.
   * Obtenga acceso a la GUI integrada escribiendo `/8 fps gui` en el chat.
+
+<img src="https://user-images.githubusercontent.com/69399372/166418194-e0a3f1e4-c39c-4b89-bb25-b2f278ebd348.png" alt="drawing" width="600"/>
 
 ## Capacidad.
   * Debería funcionar en cualquier proxy. ([Tera-Proxy](https://github.com/tera-proxy/tera-proxy) & [Tera-Toolbox](https://github.com/tera-toolbox/tera-toolbox), *siempre y cuando este actualizado*)
