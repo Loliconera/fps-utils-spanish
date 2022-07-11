@@ -1,6 +1,6 @@
 <a href="https://github.com/Loliconera/fps-utils-spanish/archive/refs/heads/main.zip" target="_blank"><button><span title="Descargar FPS Utils"><img src="https://i.imgur.com/lf6ikht.png" width="150" /></button></a>
 
-# Fps Utils
+# Fps Utils ES
   Escrito para tera-proxy, un script gratuito repleto de funciones dedicadas a mejorar tus fps, en mundo abierto, en mazmorras y en campos de batalla.
 
 ## Cómo utilizar.
